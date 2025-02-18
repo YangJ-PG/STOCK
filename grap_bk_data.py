@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
     同花顺概念数据
-    User: 杨健
+    User: yangJ
     Date: 2025 / 02 / 10
     Time: 09：40
 """
